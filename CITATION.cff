@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code/visualiziation, please cite it as below."
+authors:
+  - family-names: Ryll
+    given-names: Martin J.
+title: "ROTEM Dot-Heatmap"
+version: 2.0.0
+date-released: 2022-12-11
+repository-code: "https://github.com/RyllMartin/FXIII_ROTEM"
